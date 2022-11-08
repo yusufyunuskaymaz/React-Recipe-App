@@ -1,7 +1,7 @@
 ### This project aims to create multiple pages with React Router.
 
 
-![Animation](https://user-images.githubusercontent.com/99739515/179240238-5c65ce70-8dfa-42e1-abcc-7bc7fa4124c2.gif)
+![Animation](https://github.com/clarusway/clarusway-full-stack-tr-12-22/raw/main/react/projects/005-Recipe-App/food-search-app.gif)
 📍 [click here to see page](https://meal-react-router.vercel.app)
 ### In this project, i have practiced;
 
