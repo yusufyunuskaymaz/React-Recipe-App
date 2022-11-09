@@ -2,7 +2,7 @@
 
 
 ![Animation](https://github.com/clarusway/clarusway-full-stack-tr-12-22/raw/main/react/projects/005-Recipe-App/food-search-app.gif)
-📍 [click here to see page](https://meal-react-router.vercel.app)
+📍 [click here to see page](https://recipe2app.netlify.app/)
 ### In this project, i have practiced;
 
 👉 React Props
