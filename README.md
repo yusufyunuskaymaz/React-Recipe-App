@@ -5,27 +5,27 @@
 📍 [click here to see page](https://recipe2app.netlify.app/)
 ### In this project, i have practiced;
 
-👉 React Props
+✨ React Props
 
-👉 React State Logic
+✨ React State Logic
 
-👉 React Hooks (useState, useNavigate, useLocation)
+✨ React Hooks (useState, useNavigate, useLocation)
 
-👉 Destrucring Methods
+✨ Destrucring Methods
 
-👉 Encryption codes
+✨ Encryption codes
 
-👉 Styled Components
+✨ Styled Components
 
-👉 Getting info with Api
+✨ Getting info with Api
 
-👉 Async-await, Axios
+✨ Async-await, Axios
 
-👉 React Router
+✨ React Router
 
-👉 Local and Session Storage
+✨ Local and Session Storage
 
-👉 Deploy with Vercel
+✨ Deploy with Vercel
 
 ### At the end of the project, i will be able to;
 
