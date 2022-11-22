@@ -3,7 +3,7 @@
 
 ![Animation](https://github.com/clarusway/clarusway-full-stack-tr-12-22/raw/main/react/projects/005-Recipe-App/food-search-app.gif)
 🎯 [click here to see page](https://recipe2app.netlify.app/)
-### In this project, i have practiced;
+### In this project, I learned;
 
 ✨ React Props
 
@@ -12,10 +12,6 @@
 ✨ React Hooks (useState, useNavigate, useLocation)
 
 ✨ Destrucring Methods
-
-✨ Encryption codes
-
-✨ Styled Components
 
 ✨ Getting info with Api
 
@@ -27,7 +23,7 @@
 
 ✨ Deploy with Vercel
 
-### In this project, i have practiced;
+### In this project, I learned;
 
 🎯 improve coding skills within React, React Hooks, React Router and Javascript
 
